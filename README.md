@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **https://discord.com/users/943050817747959868**
 
-- 📄 Know about my experiences [Nothing :)](Nothing :))
+- 📄 Know about my experiences **Nothing :)**
 
 - ⚡ Fun fact **I'm just a typical lazy but effective noob developer in JavaScript and Python :)**
 
