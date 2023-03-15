@@ -1,4 +1,4 @@
-<img src="https://media.discordapp.net/attachments/961631935522832424/1085540211951403049/image.png?width=1440&height=482" alt="ojasvisharma26" />
+<img src="https://media.discordapp.net/attachments/961631935522832424/1085549259853680752/image.png?width=1440&height=518" alt="ojasvisharma26" />
 <h1 align="center">Hi 👋, I'm Ojasvi Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
