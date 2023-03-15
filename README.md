@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img align="right" width="600" src="https://media.discordapp.net/attachments/969481658451517440/1074248900996763708/image.png?width=1331&height=585" alt="Eerie" />
+<img align="right" width="500" src="https://media.discordapp.net/attachments/969481658451517440/1074248900996763708/image.png?width=1331&height=585" alt="Eerie" />
 
 - 🔭 I’m currently working on [Eerie a Discord Bot](https://eerie.proclient.repl.co/)
 
