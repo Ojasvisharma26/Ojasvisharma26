@@ -8,7 +8,7 @@
 
 <img align="right" width="500" src="https://media.discordapp.net/attachments/969481658451517440/1074248900996763708/image.png?width=1331&height=585" alt="Eerie" />
 
-- 🔭 I’m currently working on [Eerie a Discord Bot](https://eerie.proclient.repl.co/)
+- 🔭 I’m currently working on **Nothing :)**
 
 - 🌱 I’m currently learning **Nothing :)**
 
