@@ -20,7 +20,7 @@
 
 - 📝 I regularly write articles on **Nothing :)**
 
-- 💬 Ask me about **JavaScript, Python and HTML**
+- 💬 Ask me about **JavaScript, Python, HTML and CSS**
 
 - 📫 How to reach me **https://discord.com/users/943050817747959868**
 
